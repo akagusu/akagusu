@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @akagusu
 - 👀 I’m interested in :hamburger: food, :herb: plants and :desktop_computer: bytes.
-- 🌱 I’m currently learning Go, 🦎 Deno, and 🐍 Python.
 - 📫 You can reach me here. Just open an issue :smile:.
 
 <!---
